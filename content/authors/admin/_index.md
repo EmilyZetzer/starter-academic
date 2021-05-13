@@ -6,12 +6,18 @@ title: Emily E. Zetzer
 superuser: true
 
 # Role/position/tagline
-role: Clinical Research Associate III & MS student in Biostatistics
+role: Clinical Research Associate III
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: IMARC Research
   url: https://www.imarcresearch.com
+  
+# Role/position/tagline
+role: MS student in Biostatistics
+
+# Organizations/Affiliations to show in About widget
+organizations:
 - name: Case Western Reserve University
   url: https://case.edu
 
