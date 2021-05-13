@@ -23,7 +23,7 @@ feature:
 - description:
   icon: chart-line
   icon_pack: fas
-  name: SAS BASE, MACRO, SQL)
+  name: SAS (BASE, MACRO, SQL)
 - description:
   icon: fas fa-flask
   icon_pack: fas
