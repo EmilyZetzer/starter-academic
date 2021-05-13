@@ -31,7 +31,7 @@ experience:
     description: Responsible for ensuring clinical research compliance throughout clinical trials life cycle. Work closely with sponsoring companies, contract research organizations, and investigators to assist in the device, biologic, and pharmaceutical research processes.
         
   - title: Research Coordinator
-    company: Cleveland Clinic Foundatioon
+    company: Cleveland Clinic Foundation
     company_url: ''
     location: Cleveland, Ohio
     date_start: '2016-03-01'
