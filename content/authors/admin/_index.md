@@ -6,7 +6,9 @@ title: Emily E. Zetzer
 superuser: true
 
 # Role/position/tagline
-role: Clinical Research Associate III & MS student in Biostatistics
+role: 
+- Clinical Research Associate III
+- MS student in Biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
