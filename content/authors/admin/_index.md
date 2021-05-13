@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emily E. Zetzer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Clinical Research Associate III & MS student in Biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IMARC Research
+  url: https://www.imarcresearch.com
+- name: Case Western Reserve University
+  url: https://case.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a Clinical Research Associate (CRA) at IMARC Research and a MS student in the Biostatistics Program at Case Western Researve University.
 
 # Interests to show in About widget
 interests:
