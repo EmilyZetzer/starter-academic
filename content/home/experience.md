@@ -25,25 +25,19 @@ experience:
   - title: Clinical Research Associate III
     company: IMARC Research
     company_url: ''
-    company_logo: IMARC
-    location: California
-    date_start: '2021-01-01'
+    location: Strongsville, Ohio
+    date_start: 'May 2017'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Responsible for ensuring clinical research compliance throughout clinical trials life cycle. Work closely with sponsoring companies, contract research organizations, and investigators to assist in the device, biologic, and pharmaceutical research processes.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Coordinator
+    company: Cleveland Clinic Foundatioon
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Cleveland, Ohio
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Coordinated the implementation and conduct of research projects ensuring adherence to research protocol requirements including, timely completion and communication of regulatory documents, the development of data capture and monitoring plans, reporting of Serious Adverse Events and completion of Food and Drug Administration (FDA) and sponsor forms in accordance with GCP timelines.
 
 design:
   columns: '2'
