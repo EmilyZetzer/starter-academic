@@ -26,17 +26,16 @@ experience:
     company: IMARC Research
     company_url: ''
     location: Strongsville, Ohio
-    date_start: '2016-01-01'
+    date_start: '2017-05-01'
     date_end: ''
-    description: Responsible for ensuring clinical research compliance throughout clinical trials life cycle. Work closely with sponsoring companies, contract research organizations, and investigators to assist in the device, biologic, and pharmaceutical research processes.
+    description:Responsible for ensuring clinical research compliance throughout clinical trials life cycle. Work closely with sponsoring companies, contract research organizations, and investigators to assist in the device, biologic, and pharmaceutical research processes.
         
   - title: Research Coordinator
     company: Cleveland Clinic Foundatioon
     company_url: ''
-    company_logo: org-x
     location: Cleveland, Ohio
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2016-03-01'
+    date_end: '2017-05-01'
     description: Coordinated the implementation and conduct of research projects ensuring adherence to research protocol requirements including, timely completion and communication of regulatory documents, the development of data capture and monitoring plans, reporting of Serious Adverse Events and completion of Food and Drug Administration (FDA) and sponsor forms in accordance with GCP timelines.
 
 design:
