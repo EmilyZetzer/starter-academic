@@ -61,19 +61,19 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+icon_pack: ai
+link: uploads/EEZ CV 05.2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "eez@case.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Clinical Research Associate (CRA) at IMARC Research and a MS student in the Biostatistics Program at Case Western Researve University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The most important question of my career has been “why?”. Whether questioning current processes, seeking to better understand methods, or exploring wholly new concepts, it all begins with my desire to know more. As a result, my academic and professional career has grown into an interconnected network of theoretical and practical research, fused together by clinical experience. Due to my specific academic and professional experiences, I have a well-rounded understanding of the clinical trials life-cycle and statistical analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/EEZ CV 05.2021.pdf" "newtab" >}}CV{{< /staticref >}}.
