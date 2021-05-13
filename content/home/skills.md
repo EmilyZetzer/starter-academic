@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description:
   icon: r-project
   icon_pack: fab
   name: R/RStudio
+- description:
+  icon: chart-line
+  icon_pack: fas
+  name: SAS BASE, MACRO, SQL)
 - description:
   icon: fas fa-flask
   icon_pack: fas
