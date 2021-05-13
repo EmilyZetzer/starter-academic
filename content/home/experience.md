@@ -26,7 +26,7 @@ experience:
     company: IMARC Research
     company_url: ''
     location: Strongsville, Ohio
-    date_start: 'May 2017'
+    date_start: ''
     date_end: ''
     description: Responsible for ensuring clinical research compliance throughout clinical trials life cycle. Work closely with sponsoring companies, contract research organizations, and investigators to assist in the device, biologic, and pharmaceutical research processes.
         
